@@ -1,0 +1,55 @@
+         On Thursday I gave a quick talk on microformats to the assembled
+         hordes of Product Operations in Yahoo! Europe (this department
+         contains project management, web development, design and user
+         research---people who actually build websites).
+
+         The basic structure of the talk was:
+
+    1.   use a couple of quotes taken from the <what are microformats?> page,
+         and one from <Jeremy Keith>'s talk <In Praise of the Hyperlink> to
+         introduce the concept
+
+    2.   quickly describe the <W3C>'s <Semantic Web> (note capitalisation)
+         vision and progress over the past five years
+
+    3.   describe the progress made in just over one year by microformats in
+         creating the semantic web (note lower case)
+
+    4.   note adoption of microformats by some small EU Yahoo! properties and
+         some big US Yahoo! properties
+
+    5.   briefly name and describe some microformats (without code examples)
+
+    6.   show how <hCard> can be used by the <Technorati> <contacts feed
+         service> to take the list of <speakers from this year's d.Construct>
+         and them to my address book
+
+    7.   show how <hCalendar> can be used by the <Technorati> <events feed
+         service> to take the <schedule from this year's d.Construct> and add
+         it to my calendar
+
+    8.   take questions from the audience
+
+         _End result_---a few more people at Yahoo! Europe understand
+         exactly what microformats are and why I consider them important; a
+         handful are now excited enough to go learn more (and not just in the
+         web development team); and I should learn to save my <Keynote> files
+         before rebooting my machine.
+
+<hCard | http://microformats.org/wiki/hcard>
+<Semantic Web | http://www.w3.org/2001/sw/>
+<contacts feed service | http://technorati.com/contacts/>
+<Technorati | http://technorati.com/>
+<hCalendar | http://microformats.org/wiki/hcalendar>
+<events feed service | http://technorati.com/events/>
+<speakers from this year's d.Construct |
+http://2006.dconstruct.org/speakers/
+>
+<In Praise of the Hyperlink | http://adactio.com/articles/1132/>
+<Keynote | http://www.apple.com/keynote>
+<what are microformats? | http://microformats.org/wiki/what-are-microformats>
+<W3C | http://www.w3.org/>
+<Jeremy Keith | http://adactio.com/>
+<schedule from this year's d.Construct |
+http://2006.dconstruct.org/schedule/
+>
