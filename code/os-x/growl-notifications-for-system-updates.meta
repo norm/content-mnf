@@ -1,0 +1,7 @@
+title     = Growl notifications for system updates
+timestamp = 1267237447
+summary   = (
+    I wrote a little shell script wrapper around softwareupdate which 
+    pops up a Growl notification when there are new updates available 
+    for your computer.
+)
