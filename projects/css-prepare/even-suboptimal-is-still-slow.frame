@@ -2,7 +2,8 @@
         faster it was to compare the savings to be made by taking rule sets
         with properties in common (sharing a «margin: 0;» rule, for example)
         rather than doing an exhaustive tree search to find the shortest, most
-        perfect solution. It was you might call a "quick and dirty" solution.
+        perfect solution. It was what you might call a "quick and dirty"
+        solution.
         
         Quick, not so much.
         
