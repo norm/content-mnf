@@ -1,0 +1,7 @@
+title     = Why optimising CSS is dangerous
+timestamp = 1269728450
+summary   = (
+    An automated tool altering the structure and source order of your
+    CSS should fill you with The Fear™. Here's why.
+)
+series    = css-prepare
